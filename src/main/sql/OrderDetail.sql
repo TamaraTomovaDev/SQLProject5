@@ -5,8 +5,7 @@ CREATE TABLE OrderDetails1
 
     CONSTRAINT PKOrderToOrderDetailsMtoN FOREIGN KEY (OrderId) REFERENCES orders1 (OrderId),
     CONSTRAINT PKItemToOrderDetailsMtoN FOREIGN KEY (ItemId) REFERENCES items1 (ItemId)
-)
-
+);
 # filter all records, items from order 1
 SELECT OrderId, ItemId
 FROM OrderDetails1

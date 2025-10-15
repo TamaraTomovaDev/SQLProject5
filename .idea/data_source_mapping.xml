@@ -4,5 +4,9 @@
     <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/80eb1d57-31ef-44c4-ab10-1efcf7e6951d/console.sql" value="80eb1d57-31ef-44c4-ab10-1efcf7e6951d" />
     <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/de5c38a8-6bdf-4991-9704-ac5d228ff7ce/console.sql" value="de5c38a8-6bdf-4991-9704-ac5d228ff7ce" />
     <file url="file://$PROJECT_DIR$/src/main/sql/Address.sql" value="de5c38a8-6bdf-4991-9704-ac5d228ff7ce" />
+    <file url="file://$PROJECT_DIR$/src/main/sql/Customer.sql" value="80eb1d57-31ef-44c4-ab10-1efcf7e6951d" />
+    <file url="file://$PROJECT_DIR$/src/main/sql/Item.sql" value="80eb1d57-31ef-44c4-ab10-1efcf7e6951d" />
+    <file url="file://$PROJECT_DIR$/src/main/sql/Order.sql" value="de5c38a8-6bdf-4991-9704-ac5d228ff7ce" />
+    <file url="file://$PROJECT_DIR$/src/main/sql/OrderDetail.sql" value="de5c38a8-6bdf-4991-9704-ac5d228ff7ce" />
   </component>
 </project>

@@ -7,6 +7,7 @@ CREATE TABLE Items1
 
     PRIMARY KEY (ItemId)
 );
+
 INSERT INTO Items1(Title, Description, Price)
 VALUES ('Batman2', 'Adventure film', 20.00),
        ('Batman3', 'Adventure film', 25.00),
