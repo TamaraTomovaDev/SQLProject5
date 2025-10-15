@@ -13,7 +13,7 @@ CREATE TABLE Addresses1
     PRIMARY KEY (AddressId)
 );
 
-INSERT INTO Addresses1(DoorNo, HouseNo, Street, Municipality, City)
+INSERT INTO Addresses1(DoorNo, HouseNo, Street, Municipality, City, Region)
 VALUES ('1', '5', 'Bezigstraat', 'Tervuren', 106, 'Stad Brussel'),
        ('2', '7', 'Coffestraat', 'Tervuren', 100, 'Stad Brussel'),
        ('3', '10', 'Valleistraat', 'Wilsele', 106, 'Stad Leuven'),
